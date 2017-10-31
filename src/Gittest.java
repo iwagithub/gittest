@@ -1,6 +1,6 @@
 
 public class Gittest {
 	public static void main(String args[]){
-		System.out.println("This is Gittest.");
+		System.out.println("This is Gittest..");
 	}
 }
